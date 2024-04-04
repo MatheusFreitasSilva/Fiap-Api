@@ -1,0 +1,17 @@
+div.person {
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50%;
+    min-width: 250px;
+    max-width: 600px;
+}
+
+.Error{
+    border: 1px solid red;
+    border-left: 10px solid red;
+}
+
+.Success{
+    border: 1px solid lightseagreen;
+    border-left: 10px solid lightseagreen;
+}

@@ -1,0 +1,12 @@
+.key{
+    display: flex;
+    flex-direction: column;
+}
+
+.key > label{
+    font-weight: bold;
+}
+
+.key > div {
+    text-transform: uppercase;
+}
